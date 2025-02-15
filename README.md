@@ -1,5 +1,5 @@
 # StarUML
-UML diagrams implemented in StarUML for small scale scenarios.
+UML Class Diagrams implemented in StarUML for small scale scenarios.
 
 ## Ticket Booking System
 Diagram Explanation
